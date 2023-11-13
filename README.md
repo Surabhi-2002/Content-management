@@ -1,6 +1,6 @@
-# Content management Tool Task 1- Bharat Intern
+# Content management Tool 
 
-Content Management Tool Task 1 is a project for Bharat Interns to develop a content management system using HTML,JAVASCRIPT and CSS. The system should allow users to create, edit, and manage content on a website. Content Management
+Content Management Tool Task 1 is a project for Bharat Interns to develop a content management system using HTML,JAVASCRIPT and CSS.
 
 Here are some additional details about the task:
 
